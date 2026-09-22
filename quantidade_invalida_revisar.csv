@@ -1,0 +1,46 @@
+id_pedido,data_pedido,id_cliente,canal,cidade,estado,categoria,produto,quantidade,preco_unitario,frete,status,data_entrega
+PED-00980,2023-07-10,CLI-0254,site,Rio De Janeiro,RJ,Casa & Decoracao,Luminária de Mesa LED,0,127.24,17.22,Cancelado,
+PED-03945,2023-07-01,CLI-0777,marketplace,Sao Paulo,SP,Esporte,Tapete de Yoga 6mm,0,188.14,16.23,Entregue,2023-07-05
+PED-00905,2024-12-14,CLI-1344,marketplace,Sao Paulo,SP,Esporte,Garrafa Térmica 1L,-2,71.91,14.89,Entregue,2024-12-28
+PED-02507,2024-12-06,CLI-0638,site,Sao Paulo,SP,Moda,Tênis Casual Masculino,-1,341.01,0.0,Entregue,2024-12-09
+PED-00930,2024-08-20,CLI-1348,app,Curitiba,PR,Casa & Decoracao,Jogo de Toalhas 4 peças,0,185.98,0.0,Entregue,2024-09-03
+PED-01835,2023-08-08,CLI-0533,app,Rio De Janeiro,RJ,Casa & Decoracao,Luminária de Mesa LED,0,198.74,21.52,Entregue,2023-08-17
+PED-00113,2023-10-29,CLI-0607,app,Ribeirao Preto,SP,Beleza,Kit Skincare Facial,-1,-260.59,0.0,Entregue,2023-11-04
+PED-02896,2023-04-08,CLI-0281,app,Rio De Janeiro,RJ,Eletronicos,Webcam Full HD,-2,324.57,0.0,Entregue,2023-04-11
+PED-04077,2024-06-19,CLI-1262,app,Sao Paulo,SP,Esporte,Tapete de Yoga 6mm,-1,171.73,19.57,Cancelado,
+PED-00537,2024-03-24,CLI-0428,site,Brasilia,DF,Beleza,Kit Skincare Facial,0,219.78,0.0,Entregue,2024-04-09
+PED-02365,2024-06-30,CLI-0792,marketplace,Sao Paulo,SP,Moda,"Mochila Notebook 15""",0,317.66,0.0,Entregue,2024-07-10
+PED-03366,2023-11-11,CLI-0083,site,Porto Alegre,RS,Moda,Tênis Casual Masculino,-1,395.34,0.0,Entregue,2023-11-25
+PED-04073,2023-12-28,CLI-1277,site,Sao Paulo,SP,Moda,Jaqueta Jeans,-2,163.12,0.0,Em Transporte,
+PED-02892,2024-12-24,CLI-0422,site,Sao Paulo,SP,Moda,"Mochila Notebook 15""",-1,151.94,0.0,Devolvido,2024-12-27
+PED-04572,13/11/2024,CLI-0951,site,Sao Paulo,SP,Eletronicos,Smartwatch Fit,-2,394.26,0.0,Entregue,24/11/2024
+PED-02659,26/04/2023,CLI-0282,site,Sao Paulo,SP,Casa & Decoracao,Luminária de Mesa LED,-2,96.69,0.0,Entregue,06/05/2023
+PED-00171,2023-10-16,CLI-0338,site,Recife,PE,Eletronicos,Carregador Turbo 30W,-2,85.38,28.79,Entregue,2023-10-27
+PED-02980,2024-11-12,CLI-0587,app,Brasilia,DF,Beleza,Base Líquida Matte,-2,138.9,25.82,Entregue,2024-11-30
+PED-01151,2023-05-30,CLI-0548,site,Belo Horizonte,MG,Casa & Decoracao,Quadro Decorativo Abstrato,-1,148.03,18.69,Entregue,2023-06-03
+PED-02622,2024-12-14,CLI-0471,marketplace,Rio De Janeiro,RJ,Beleza,Perfume Importado 100ml,-2,643.68,0.0,Entregue,2024-12-27
+PED-02313,2023-12-08,CLI-0804,site,Porto Alegre,RS,Esporte,Tapete de Yoga 6mm,0,101.23,26.99,Entregue,2023-12-23
+PED-04930,2023-10-13,CLI-0407,marketplace,Porto Alegre,RS,Eletronicos,Webcam Full HD,-1,240.37,0.0,Entregue,2023-10-29
+PED-04734,28/08/2023,CLI-0026,marketplace,Salvador,BA,Casa & Decoracao,Jogo de Toalhas 4 peças,0,191.35,0.0,Entregue,11/09/2023
+PED-02556,2024-07-20,CLI-0047,app,Sao Paulo,SP,Eletronicos,Carregador Turbo 30W,-2,90.99,0.0,Entregue,2024-07-31
+PED-00904,18/02/2024,CLI-0247,site,Sao Paulo,SP,Eletronicos,Fone Bluetooth TWS,-2,265.16,0.0,Cancelado,
+PED-00514,2023-10-07,CLI-0261,app,Belo Horizonte,MG,Eletronicos,Carregador Turbo 30W,0,76.06,21.93,Entregue,2023-10-12
+PED-01751,2024-06-13,CLI-0600,app,Ribeirao Preto,SP,Moda,Boné Aba Curva,-2,90.55,15.12,Entregue,2024-06-20
+PED-03831,13/02/2024,CLI-0073,site,Campinas,SP,Beleza,Secador de Cabelo 2000W,-2,233.97,12.61,Entregue,16/02/2024
+PED-02170,2024-03-07,CLI-0951,site,Sao Paulo,SP,Moda,Boné Aba Curva,0,79.38,16.47,Entregue,2024-03-18
+PED-04351,2023-07-06,CLI-1325,site,Curitiba,PR,Eletronicos,Smartwatch Fit,-1,898.36,0.0,Entregue,2023-07-24
+PED-02436,2024-12-13,CLI-0037,app,Fortaleza,CE,Beleza,Kit Skincare Facial,-2,126.81,32.68,Entregue,2024-12-29
+PED-01899,2023-03-16,CLI-0856,app,Sao Paulo,SP,Beleza,Secador de Cabelo 2000W,0,280.16,0.0,Entregue,2023-03-24
+PED-02558,2023-09-21,CLI-0982,app,Brasilia,DF,Casa & Decoracao,"Tapete Sala 1,5m",-1,380.35,0.0,Entregue,2023-09-29
+PED-01364,2023-02-16,CLI-0794,site,Rio De Janeiro,RJ,Moda,"Mochila Notebook 15""",0,163.7,21.58,Entregue,2023-03-02
+PED-03689,2024-05-26,CLI-1026,app,Porto Alegre,RS,Casa & Decoracao,Vaso Decorativo Cerâmica,0,139.77,28.83,Entregue,2024-06-09
+PED-04098,2024-05-31,CLI-1184,site,Porto Alegre,RS,Moda,Jaqueta Jeans,-1,310.2,0.0,Entregue,2024-06-09
+PED-03242,21/04/2024,CLI-0242,app,Recife,PE,Eletronicos,Fone Bluetooth TWS,-2,293.6,27.22,Entregue,08/05/2024
+PED-01432,2024-05-24,CLI-1335,marketplace,Belo Horizonte,MG,Eletronicos,Webcam Full HD,-1,266.23,16.62,Entregue,2024-05-31
+PED-00617,31/08/2024,CLI-0517,app,Brasilia,DF,Moda,Boné Aba Curva,-1,80.09,23.95,Entregue,12/09/2024
+PED-04035,12/05/2023,CLI-1110,site,Rio De Janeiro,RJ,Casa & Decoracao,Quadro Decorativo Abstrato,-1,106.45,0.0,Entregue,16/05/2023
+PED-03327,2023-12-21,CLI-1089,marketplace,Rio De Janeiro,RJ,Beleza,Base Líquida Matte,-1,138.5,0.0,Devolvido,2023-12-27
+PED-00600,2024-05-30,CLI-0441,site,Salvador,BA,Casa & Decoracao,Vaso Decorativo Cerâmica,-1,116.07,0.0,Entregue,2024-06-12
+PED-00114,2024-05-03,CLI-0479,marketplace,Rio De Janeiro,RJ,Casa & Decoracao,Luminária de Mesa LED,0,214.01,26.7,Entregue,2024-05-16
+PED-02482,2023-08-26,CLI-0477,site,Sao Paulo,SP,Beleza,Base Líquida Matte,0,57.82,16.28,Entregue,2023-08-30
+PED-04364,2024-12-23,CLI-0791,marketplace,Curitiba,PR,Moda,"Mochila Notebook 15""",-2,190.04,0.0,Entregue,2025-01-07
