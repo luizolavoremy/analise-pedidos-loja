@@ -1,6 +1,6 @@
 # Análise de Pedidos de uma Loja Online
 
-Análise exploratória em Python (pandas) em relação a uma base de pedidos de loja online, 24 meses (Jan/2023-Dez/2024). Fluxo completo: diagnostico de qualidade de qualidade dos dados, limpeza, perguntas de negócio, visualização e conclusões.
+Análise exploratória em Python (pandas) em relação a uma base de pedidos de loja online, 24 meses (Jan/2023-Dez/2024). Fluxo completo: diagnostico de qualidade dos dados, limpeza, perguntas de negócio, visualização e conclusões.
 
 > **Sobre os dados:** a base é **sintética**, gerada pelo Claude, para estudo e com problemas de qualidade inseridos de propósito (formatos de data misturados, texto sem padronização, duplicatas, nulos e valores impossíveis). Os números não representam nenhuma empresa real.
 
@@ -100,4 +100,4 @@ analise-pedidos-loja/
 
 ## Autor
 
-Luiz Olavo Remy Firmino · http://linkedin.com/in/luiz-olavo-remy · luiz.olavo.remy@gmail.com
+Luiz Olavo Remy Firmino · https://linkedin.com/in/luiz-olavo-remy · luiz.olavo.remy@gmail.com
