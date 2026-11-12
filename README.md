@@ -95,7 +95,7 @@ analise-pedidos-loja/
 
 ## Próximos passos
 
-- Refazer as mesmas perguntas em SQL.
+- Refazer as mesmas perguntas em SQL. Atualização: perguntas já feitas em SQL: [analise-pedidos-loja-sql](https://github.com/luizolavoremy/analise-pedidos-loja-sql)
 - Montar um dashboard em Power BI sobre os dados já limpos.
 
 ## Autor
