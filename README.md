@@ -93,10 +93,10 @@ analise-pedidos-loja/
 └── README.md
 ```
 
-## Próximos passos
+## Projetos relacionados
 
-- Refazer as mesmas perguntas em SQL. Atualização: perguntas já feitas em SQL: [analise-pedidos-loja-sql](https://github.com/luizolavoremy/analise-pedidos-loja-sql)
-- Montar um dashboard em Power BI sobre os dados já limpos.
+- Mesmas perguntas refeitas em SQL: [analise-pedidos-loja-sql](https://github.com/luizolavoremy/analise-pedidos-loja-sql)
+- Dashboard em Power BI sobre os dados já limpos: [analise-pedidos-loja-powerbi](https://github.com/luizolavoremy/analise-pedidos-loja-powerbi)
 
 ## Autor
 
