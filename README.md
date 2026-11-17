@@ -97,6 +97,7 @@ analise-pedidos-loja/
 
 - Mesmas perguntas refeitas em SQL: [analise-pedidos-loja-sql](https://github.com/luizolavoremy/analise-pedidos-loja-sql)
 - Dashboard em Power BI sobre os dados já limpos: [analise-pedidos-loja-powerbi](https://github.com/luizolavoremy/analise-pedidos-loja-powerbi)
+- Agentes de IA que geram um relatório sobre os mesmos dados: [ai-business-assistant](https://github.com/luizolavoremy/ai-business-assistant)
 
 ## Autor
 
