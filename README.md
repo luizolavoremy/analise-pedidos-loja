@@ -63,6 +63,7 @@ Análise exploratória em Python (pandas) em relação a uma base de pedidos de 
 - O mês de vale (fev/2023) tem só 226 unidades vendidas, então diferenças entre produtos ali têm mais ruído.
 - `idxmax` e `idxmin` mostram só o primeiro e o último colocado, sem a magnitude da diferença.
 - Os pedidos removidos ficam em CSVs separados para revisão e não entram nos cálculos.
+- A base limpa ainda tem **20 pedidos com preço unitário negativo**, que a limpeza não tratou. O problema foi percebido depois, ao montar o diagnóstico do projeto 4. Eles somam −R$ 6.329,96 na receita (cerca de 0,3%): sem eles, a receita total seria R$ 2.087.662,33, e não R$ 2.081.332,37. Os rankings de receita por produto, categoria, estado e canal não mudam. Os números foram mantidos como estão para ficarem iguais nos quatro projetos da série.
 
 ## Tecnologias
 
